@@ -1,0 +1,1 @@
+this spring boot   project is made for practise to develop rest api and backend working,you can use it it various framework like react, vue, angular etc ,  this  donesnot contains the authentication and authorization  but it 
